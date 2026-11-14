@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dot Notes</string>
+    <string name="widget_desc">2-page notes. Tap a note to check it off.</string>
+</resources>
