@@ -76,7 +76,7 @@
                 android:textColor="#5A5A5A"
                 android:textSize="11sp" />
 
-            <View
+             <FrameLayout
                 android:layout_width="0dp"
                 android:layout_height="1dp"
                 android:layout_weight="1" />
